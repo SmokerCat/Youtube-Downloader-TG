@@ -5,6 +5,6 @@ async def start(client, message):
     await message.reply_text("To Use @Yourtube_cat_bot Just do it. ⚜️ Go ⚜️ button to go to Tutorial.. 🥳",
                              reply_markup=InlineKeyboardMarkup(
         [
-            [InlineKeyboardButton("⚜️ Go ⚜️", url="https://t.me/Fallenflower_of_Telegram/11")]
+            [InlineKeyboardButton("⚜️ Go ⚜️", url="https://t.me/CatX_bot_hub")]
         ]))
     
